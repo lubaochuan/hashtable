@@ -1,5 +1,6 @@
 // Java program to demonstrate implementation of our
 // own hash table with chaining for collision detection
+// https://www.geeksforgeeks.org/implementing-our-own-hash-table-with-separate-chaining-in-java/
 import java.util.ArrayList;
 import java.util.Objects;
 
